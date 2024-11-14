@@ -1,10 +1,9 @@
 
-```markdown
 # Face Recognition using Eigenfaces and Principal Component Analysis (PCA)
 
 This project implements a face recognition system using the **eigenfaces** method, leveraging **Principal Component Analysis (PCA)** for dimensionality reduction. The system uses a **k-Nearest Neighbors (k-NN)** classifier within the eigenface space to achieve efficient and accurate face recognition.
 
-> For detailed graphs, explanations, and in-depth analysis, please refer to the [full report](link_to_report.pdf).
+> For detailed graphs, explanations, and in-depth analysis, please refer to the [full report](https://github.com/lakshmannarendra/Face_Recognition_Using_EigenFaces/blob/main/report.pdf).
 
 ## Dataset
 
@@ -15,7 +14,7 @@ The project uses the **AT&T Face Dataset (ORL dataset)**, which contains 400 gra
 - **Notebook**: A Jupyter Notebook that guides through each stage of data preprocessing, PCA application, and face recognition using k-NN.
 - **Image Dataset**: ORL dataset, used to train and evaluate the face recognition model.
 
-> **Note**: For a comprehensive explanation of each stage, including data preprocessing, PCA analysis, and model evaluation, check the [report](link_to_report.pdf).
+> **Note**: For a comprehensive explanation of each stage, including data preprocessing, PCA analysis, and model evaluation, check the [report](https://github.com/lakshmannarendra/Face_Recognition_Using_EigenFaces/blob/main/report.pdf).
 
 ## Prerequisites
 
@@ -59,7 +58,7 @@ The project follows these main steps:
 8. **Visualization**
    - Detailed graphs, including the mean face, eigenfaces, 3D projections, and error analysis plots, provide insights into model performance.
 
-> **For detailed visualizations, scree plots, and explained variance graphs, refer to the [report](link_to_report.pdf).**
+> **For detailed visualizations, scree plots, and explained variance graphs, refer to the [report](https://github.com/lakshmannarendra/Face_Recognition_Using_EigenFaces/blob/main/report.pdf).**
 
 ## Results
 
@@ -67,7 +66,7 @@ The project follows these main steps:
 - **Challenges**: Some difficulties were observed in differentiating similar-looking faces and under varying lighting conditions.
 - **Future Improvements**: The report suggests exploring **deep learning** techniques (e.g., CNNs) and advanced preprocessing to improve robustness and accuracy.
 
-> For a full breakdown of accuracy metrics, confusion matrix, and classifier performance, consult the [report](link_to_report.pdf).
+> For a full breakdown of accuracy metrics, confusion matrix, and classifier performance, consult the [report](https://github.com/lakshmannarendra/Face_Recognition_Using_EigenFaces/blob/main/report.pdf).
 
 ## References
 
@@ -81,7 +80,7 @@ The project follows these main steps:
 3. Run the Jupyter Notebook to execute each step of the face recognition process.
 4. Test real-time face recognition by providing an input image and evaluating the classifier’s predictions.
 
-> **Note**: Detailed instructions, including command-line usage and real-time recognition, are available in the [report](link_to_report.pdf).
+> **Note**: Detailed instructions, including command-line usage and real-time recognition, are available in the [report](https://github.com/lakshmannarendra/Face_Recognition_Using_EigenFaces/blob/main/report.pdf).
 
 
 

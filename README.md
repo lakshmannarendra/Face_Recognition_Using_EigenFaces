@@ -1,4 +1,3 @@
-Here's the revised `README.md` file, now formatted properly with references to the detailed report for graphs and explanations:
 
 ```markdown
 # Face Recognition using Eigenfaces and Principal Component Analysis (PCA)
